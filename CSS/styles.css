@@ -2,6 +2,19 @@ h1 {
     text-align: center;
 }
 
-.Objective {
-    color: ;
+body {
+    background-color: blanchedalmond;
+}
+
+.resume {
+    background-color: burlywood;
+    color: gray;
+}
+
+a {
+    text-align: center;
+}
+
+.top-resume {
+    text-align: center;
 }
